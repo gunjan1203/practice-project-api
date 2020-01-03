@@ -1,0 +1,21 @@
+{
+  "name": "practice-project-api",
+  "version": "1.0.0",
+  "description": "my practice project api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "practice-project-api"
+  },
+  "keywords": [
+    "my",
+    "practice",
+    "project",
+    "api"
+  ],
+  "author": "Gunjan",
+  "license": "ISC"
+}
